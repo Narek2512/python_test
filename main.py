@@ -1,5 +1,5 @@
 
-
+print("AAA")
 def func(a, b):
 
     return a + b
